@@ -1,0 +1,14 @@
+/Users/semenosipov/Documents/vscode/Lab8/bin/Debug/net8.0/Lab8
+/Users/semenosipov/Documents/vscode/Lab8/bin/Debug/net8.0/Lab8.deps.json
+/Users/semenosipov/Documents/vscode/Lab8/bin/Debug/net8.0/Lab8.runtimeconfig.json
+/Users/semenosipov/Documents/vscode/Lab8/bin/Debug/net8.0/Lab8.dll
+/Users/semenosipov/Documents/vscode/Lab8/bin/Debug/net8.0/Lab8.pdb
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/Lab8.AssemblyInfoInputs.cache
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/Lab8.AssemblyInfo.cs
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/Lab8.csproj.CoreCompileInputs.cache
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/Lab8.dll
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/refint/Lab8.dll
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/Lab8.pdb
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/Lab8.genruntimeconfig.cache
+/Users/semenosipov/Documents/vscode/Lab8/obj/Debug/net8.0/ref/Lab8.dll
